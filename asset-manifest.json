@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-projects--joke-list/static/css/main.e6c13ad2.css",
+    "main.js": "/fcc-projects--joke-list/static/js/main.900501a9.js",
+    "index.html": "/fcc-projects--joke-list/index.html",
+    "main.e6c13ad2.css.map": "/fcc-projects--joke-list/static/css/main.e6c13ad2.css.map",
+    "main.900501a9.js.map": "/fcc-projects--joke-list/static/js/main.900501a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.900501a9.js"
+  ]
+}
