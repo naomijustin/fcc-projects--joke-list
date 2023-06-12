@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import Joke from "./Joke.js"
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Joke setup="Why did the chicken cross the road?" punchline="To get to the other side." />      
+      <Joke setup="What's the best thing about Switzerland?" punchline="I don't know, but the flag is a big plus." />      
+      <Joke setup="Helvetica and Times New Roman walk into a bar." punchline='"Get out of here!" shouts the bartender. "We don&#39;t serve your type."' />      
+      <Joke setup="Hear about the new restaurant called Karma?" punchline='There&#39;s no menu: You get what you deserve.' />      
+      <Joke setup="Did you hear about the actor who fell through the floorboards?" punchline='He was just going through a stage.' />      
     </div>
   );
 }
 
-export default App;
+export default App
