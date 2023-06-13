@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fcc-projects--joke-list/static/css/main.e6c13ad2.css",
-    "main.js": "/fcc-projects--joke-list/static/js/main.52aaff8e.js",
+    "main.js": "/fcc-projects--joke-list/static/js/main.b788affb.js",
     "index.html": "/fcc-projects--joke-list/index.html",
     "main.e6c13ad2.css.map": "/fcc-projects--joke-list/static/css/main.e6c13ad2.css.map",
-    "main.52aaff8e.js.map": "/fcc-projects--joke-list/static/js/main.52aaff8e.js.map"
+    "main.b788affb.js.map": "/fcc-projects--joke-list/static/js/main.b788affb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.52aaff8e.js"
+    "static/js/main.b788affb.js"
   ]
 }
